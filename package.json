@@ -12,6 +12,6 @@
     "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
-    "newman": "^6.2.1"
+    "newman": "^6.2.2"
   }
 }
